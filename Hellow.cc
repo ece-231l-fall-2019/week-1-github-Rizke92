@@ -9,7 +9,7 @@ int main()
         std::cout << " ***Level of Programming:*** This will be my third programing class  " << $
         std::cout << " **Programming Languages:** ***Java and C*** " << std::endl;
         std::cout << " " << std::endl;
-        std::cout << " **ME:** ~~I like long walks on the beach~~, In my free time, I like like $
+        std::cout << " **ME:** ~~I like long walks on the beach~~, In my free time, I game on the PS4. When I am not lazy, I like to got hiking.$
         return 0;
 
 }
