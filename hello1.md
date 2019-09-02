@@ -1,7 +1,8 @@
  # Eric Rizk 
  #### BIO:
- **From:** Tucson AZ,**Moved to** ABQ in 2015  
+ **From:** Tucson AZ, **Moved to** ABQ in 2015  
  **Major:** Computer Engineering 
+ 
  ***Level of Programming:*** This will be my third programing class  
  **Programming Languages:** ***Java and C*** 
  
