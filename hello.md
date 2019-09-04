@@ -7,4 +7,6 @@
  **Programming Languages:** Java and C 
  
  **ME:** ~~I like long walks on the beach~~, In my free time, I game on the PS4. When I am not lazy, I like to go hiking with my dog, Beretta.
+ 
+ 
 ![Image of Beretta](Dog2.jpg)

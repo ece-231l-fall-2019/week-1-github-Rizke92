@@ -11,6 +11,8 @@ int main()
         std::cout << " **Programming Languages:** Java and C " << std::endl;
         std::cout << " " << std::endl;
         std::cout << " **ME:** ~~I like long walks on the beach~~, In my free time, I game on the PS4. When I am not lazy, I like to go hiking with my dog, Beretta." << std::endl;
+	std::cout<< " " << std::endl;
+	std::cout << " " << std::endl;
 	std::cout << "![Image of Beretta](Dog2.jpg)" << std::endl;
         return 0;
 }
